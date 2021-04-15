@@ -1,0 +1,124 @@
+bigint(+,2666666666666666666666666666666666666)
+bigint(+,2469135802468641975308642)
+bigint(+,2666666666666666666666666666666666666)
+debug BBBBBBB
+mult by 2
+size 5
+temp 4
+temp 4
+temp 4
+temp 4
+temp 4
+debug ARA
+mult by 2
+size 0
+debug CHELY
+debug BBBBBBB
+mult by 2
+size 5
+temp 8
+temp 8
+temp 8
+temp 8
+temp 8
+debug ARA
+mult by 2
+size 0
+debug CHELY
+debug BBBBBBB
+mult by 2
+size 5
+temp 6
+temp 6
+temp 6
+temp 6
+temp 6
+debug ARA
+mult by 2
+size 0
+debug CHELY
+debug BBBBBBB
+mult by 2
+size 6
+temp 2
+temp 4
+temp 4
+temp 4
+temp 4
+temp 2
+debug ARA
+mult by 2
+size 0
+debug CHELY
+debug BBBBBBB
+mult by 2
+size 6
+temp 4
+temp 0
+temp 0
+temp 0
+temp 0
+temp 6
+debug ARA
+mult by 2
+size 0
+debug CHELY
+debug BBBBBBB
+mult by 2
+size 6
+temp 8
+temp 0
+temp 2
+temp 2
+temp 2
+temp 4
+debug ARA
+mult by 2
+size 0
+debug CHELY
+debug BBBBBBB
+mult by 2
+size 7
+temp 6
+temp 0
+temp 4
+temp 4
+temp 4
+temp 8
+temp 2
+debug ARA
+mult by 2
+size 0
+debug CHELY
+debug BBBBBBB
+mult by 2
+size 7
+temp 2
+temp 2
+temp 8
+temp 8
+temp 8
+temp 6
+temp 4
+debug ARA
+mult by 2
+size 0
+debug CHELY
+debug BBBBBBB
+mult by 2
+size 7
+temp 4
+temp 6
+temp 6
+temp 6
+temp 6
+temp 2
+temp 0
+debug ARA
+mult by 2
+size 0
+debug CHELY
+                      after 1st while
+debug 2 same signbigint(+,)
+bigint(+,2469135802468641975308642)
+bigint(+,2666666666666666666666666666666666666)

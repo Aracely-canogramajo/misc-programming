@@ -1,0 +1,14 @@
+checksource: README: No such file or directory
+checksource: improper character \x09 = ^I (tab)
+   file "bigint.cpp": 107 errors: lines 38--39, 42--54, 60--94, 102, 
+        104, 114, 116--117
+   file "ubigint.cpp": 580 errors: lines 19--22, 28--29, 39--74, 
+        76--111, 117--159, 168--169, 173--181, 183--191, 194--196, 201, 
+        206--216, 219, 224, 227--231, 246, 248, 250, 254, 256--256, 
+        258--258, 260--260, 262, 275, 281, 283--289, 294, 296--297, 
+        299--312, 314, 321--322
+   file "ubigint.h": 4 errors: lines 20--21, 24
+checksource: line length > 72 characters
+   file "bigint.cpp": 1 errors: line 43
+   file "ubigint.cpp": 5 errors: lines 176, 186, 304, 307, 320
+checksource: TOTAL COMPLAINTS: 698
